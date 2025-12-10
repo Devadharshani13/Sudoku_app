@@ -2,6 +2,8 @@
 
 An interactive **Sudoku Puzzle Game** developed in **C programming** using the **SDL2 graphics library**, offering a **mobile-app-like user experience** on desktop platforms with real-time features such as **undo/redo, hints, auto-solve, timer, and move tracking**.
 
+![image alt](https://github.com/Devadharshani13/Sudoku_app/blob/main/Game.jpg?raw=true)
+
 ---
 ## Project Description
 
